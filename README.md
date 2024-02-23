@@ -138,57 +138,6 @@
 
 <tr><td>
 
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                479 commits         ███████░░░░░░░░░░░░░░░░░░   27.74 % 
-🌆 Daytime                532 commits         ████████░░░░░░░░░░░░░░░░░   30.80 % 
-🌃 Evening                425 commits         ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-🌙 Night                  291 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Tuesday                  139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Wednesday                249 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Thursday                 229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Friday                   556 commits         ████████░░░░░░░░░░░░░░░░░   32.19 % 
-Saturday                 145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-Sunday                   250 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 21 hrs 31 mins      █████████████████████░░░░   83.90 % 
-Vue.js                   2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-TypeScript               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-YAML                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-SCSS                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-
-🔥 Editors: 
-Obsidian                 13 hrs 7 mins       █████████████░░░░░░░░░░░░   51.14 % 
-VS Code                  12 hrs 32 mins      ████████████░░░░░░░░░░░░░   48.86 % 
-
-💻 Operating System: 
-Mac                      25 hrs 39 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 22/02/2024 01:14:02 UTC
-<!--END_SECTION:waka-->
-  
-</td></tr>
-
-</table>
-
-
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
@@ -215,25 +164,6 @@ Mac                      25 hrs 39 mins      ███████████�
 </picture>
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 
-<!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
-  </tr>
-</table>
-
-</div>
-
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
@@ -244,13 +174,6 @@ Mac                      25 hrs 39 mins      ███████████�
 
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
-  
-<!-- GitHub 奖杯🏆 -->
-<div><img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
-
-<!-- GitHub 数据统计 -->
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
 
 <!-- Wakatime Graph-->
 <table>
@@ -352,43 +275,6 @@ Mac                      25 hrs 39 mins      ███████████�
 
 <!-- just img 图片 -->
 <img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
-
-<!-- first form 第一个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
-
-<!-- second form 第二个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-</table>
-
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
