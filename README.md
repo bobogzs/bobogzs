@@ -59,7 +59,7 @@
 
 <tr><td>
   
-### 🏢 Work Experience
+### 🏢 工作经历
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/xxx.png" />
 
@@ -72,7 +72,7 @@
 
 <tr><td>
 
-### 📃 Recent Blog
+### 📃 最近的博客
   
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
@@ -88,7 +88,7 @@
 
 <tr><td>
 
-### 🧠 Second Brain
+### 🧠 第二大脑
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
@@ -104,7 +104,7 @@
 
 <tr><td>
 
-### 🤾‍♂️ Funny Soul
+### 🤾‍♂️ 有趣的灵魂
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
 
@@ -120,23 +120,50 @@
 
 <tr><td>
 
-### 📊 WakaTime
+### 🏊 更多仓库
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
+<details open>
+<summary>点击展开 ...</summary>
 
-</td></tr>
+|                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
+| :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------: |
+| [docker_learn](https://github.com/eryajf/docker_learn) | ![](https://img.shields.io/github/stars/eryajf/docker_learn?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/docker_learn?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 学习docker过程中所用到的一些东东 |
+| [shellabout](https://github.com/eryajf/shellabout) | ![](https://img.shields.io/github/stars/eryajf/shellabout?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/eryajf/shellabout?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 一些值得珍藏的脚本  |
+| [magic-of-kubernetes-scripts](https://github.com/eryajf/magic-of-kubernetes-scripts) | ![](https://img.shields.io/github/stars/eryajf/magic-of-kubernetes-scripts?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/magic-of-kubernetes-scripts?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 一键部署k8s-1.10.4高可用集群  |
+| [magic-of-sysuse-scripts](https://github.com/eryajf/magic-of-sysuse-scripts) | ![](https://img.shields.io/github/stars/eryajf/magic-of-sysuse-scripts?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/magic-of-sysuse-scripts?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 运维外挂，运维脚本的新角度  |
+| [care-screenshot](https://github.com/eryajf/care-screenshot) | ![](https://img.shields.io/github/stars/eryajf/care-screenshot?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/eryajf/care-screenshot?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 将你关心的网页元素截图发给机器人  |
+| [rpmbuild](https://github.com/eryajf/rpmbuild) | ![](https://img.shields.io/github/stars/eryajf/rpmbuild?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/eryajf/rpmbuild?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 整理工作中常用的RPM构建spec  |
+| [learning-weekly](https://github.com/eryajf/learning-weekly) | ![](https://img.shields.io/github/stars/eryajf/learning-weekly?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/learning-weekly?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 学习周刊，开源项目,优秀博客  |
+| [xirang](https://github.com/eryajf/xirang) | ![](https://img.shields.io/github/stars/eryajf/xirang?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/xirang?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 简单好用，直接上手的go-web框架后端  |
+| [xirang-ui](https://github.com/eryajf/xirang-ui) | ![](https://img.shields.io/github/stars/eryajf/xirang-ui?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/xirang-ui?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 简单好用，直接上手的go-web框架前端  |
+| [eryajf.github.io](https://github.com/eryajf/eryajf.github.io) | ![](https://img.shields.io/github/stars/eryajf/eryajf.github.io?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/eryajf.github.io?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 当前博客全部源码  |
+| [Obsidian-Plugin-Weekly](https://github.com/eryajf/Obsidian-Plugin-Weekly) | ![](https://img.shields.io/github/stars/eryajf/Obsidian-Plugin-Weekly?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/Obsidian-Plugin-Weekly?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📝 Obsidian插件周刊  |
+| [ldapctl](https://github.com/eryajf/ldapctl) | ![](https://img.shields.io/github/stars/eryajf/ldapctl?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/eryajf/ldapctl?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | OpenLDAP Controller  |
+| [Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) | ![](https://img.shields.io/github/stars/eryajf/Thanks-Mirror?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/Thanks-Mirror?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 各个包管理器，系统镜像，以及常用软件的镜像  |
+| [go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui) | ![](https://img.shields.io/github/stars/eryajf/go-ldap-admin-ui?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/go-ldap-admin-ui?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 基于Go+Vue实现的openLDAP后台管理项目  |
+| [go-ldap-admin](https://github.com/eryajf/go-ldap-admin) | ![](https://img.shields.io/github/stars/eryajf/go-ldap-admin?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/go-ldap-admin?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 基于Go+Vue实现的openLDAP后台管理项目  |
+| [go-ldap-admin-doc](https://github.com/eryajf/go-ldap-admin-doc) | ![](https://img.shields.io/github/stars/eryajf/go-ldap-admin-doc?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/go-ldap-admin-doc?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | go-ldap-admin项目官方文档  |
+| [third-tools](https://github.com/eryajf/third-tools) | ![](https://img.shields.io/github/stars/eryajf/third-tools?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/third-tools?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🧰 Go三方工具简单入门使用合集  |
+| [read-list](https://github.com/eryajf/read-list) | ![](https://img.shields.io/github/stars/eryajf/read-list?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/read-list?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 优质内容订阅，阅读方为根本  |
+| [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource) | ![](https://img.shields.io/github/stars/eryajf/HowToStartOpenSource?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/HowToStartOpenSource?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | GitHub开源项目维护指南  |
+| [vdoing-template](https://github.com/eryajf/vdoing-template) | ![](https://img.shields.io/github/stars/eryajf/vdoing-template?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/vdoing-template?color=ba86eb&logo=Handshake&logoColor=ea6aa6) |  vdoing博客主题模板   |
+| [awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) | ![](https://img.shields.io/github/stars/eryajf/awesome-github-profile-readme-chinese?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-github-profile-readme-chinese?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🦩 优秀的中文区个人主页搜集  |
+| [awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf) | ![](https://img.shields.io/github/stars/eryajf/awesome-stars-eryajf?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-stars-eryajf?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🤩 我的star列表，每天凌晨自动更新  |
+| [recommend-actions](https://github.com/eryajf/recommend-actions) | ![](https://img.shields.io/github/stars/eryajf/recommend-actions?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/recommend-actions?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 优秀的GitHub Actions推荐  |
+| [awesome-navigation](https://github.com/eryajf/awesome-navigation) | ![](https://img.shields.io/github/stars/eryajf/awesome-navigation?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-navigation?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 优秀的导航项目以及导航站合集  |
+| [ldapool](https://github.com/eryajf/ldapool) | ![](https://img.shields.io/github/stars/eryajf/ldapool?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/ldapool?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | go-ldap库的连接池实现  |
+| [gojenkins](https://github.com/eryajf/gojenkins) | ![](https://img.shields.io/github/stars/eryajf/gojenkins?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/gojenkins?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | fork自gojenkins,增加了很多功能  |
+| [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) | ![](https://img.shields.io/github/stars/eryajf/chatgpt-dingtalk?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/chatgpt-dingtalk?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | chatGPT机器人在钉钉群聊中交互  |
+| [emotion_generate](https://github.com/eryajf/emotion_generate) | ![](https://img.shields.io/github/stars/eryajf/emotion_generate?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/emotion_generate?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | Artalk评论系统的表情包  |
+| [awesome-chatgpt-answer](https://github.com/eryajf/awesome-chatgpt-answer) | ![](https://img.shields.io/github/stars/eryajf/awesome-chatgpt-answer?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-chatgpt-answer?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🙋 问得好，🗣 答得妙。  |
+| [eryajf-dockerfile](https://github.com/eryajf/eryajf-dockerfile) | ![](https://img.shields.io/github/stars/eryajf/eryajf-dockerfile?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/eryajf-dockerfile?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🏺 个人常用的Docker镜像汇总  |
+| [eryajfctl](https://github.com/eryajf/eryajfctl) | ![](https://img.shields.io/github/stars/eryajf/eryajfctl?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/eryajfctl?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🚀 基于Cobra库快速打造类似kubectl一样的命令行工具箱 🧰  |
+| [cloudctl](https://github.com/eryajf/cloudctl) | ![](https://img.shields.io/github/stars/eryajf/cloudctl?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/cloudctl?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🚀 与公有云等交互的命令行工具 🧰  |
+| [chatgpt-wecom](https://github.com/eryajf/chatgpt-wecom) | ![](https://img.shields.io/github/stars/eryajf/chatgpt-wecom?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/chatgpt-wecom?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 💬 基于GO语言实现的体验最好的企微应用集成ChatGPT项目 🚀  |
+| [gitlabCodeSearch](https://github.com/eryajf/gitlabCodeSearch) | ![](https://img.shields.io/github/stars/eryajf/gitlabCodeSearch?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/gitlabCodeSearch?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🔎 使用关键字搜索所有gitlab项目 |
+| [awesome-ops](https://github.com/eryajf/awesome-ops) | ![](https://img.shields.io/github/stars/eryajf/awesome-ops?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-ops?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🧰 记录每一个与运维相关的优秀项目 |
 
-<tr><td>
+</details>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
@@ -156,11 +183,11 @@
 </div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
+<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/bobogzs/sun0225SUN/assets/images/left.png" />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=default&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bobogzs&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bobogzs&theme=light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bobogzs&theme=default&hide_border=true" />
 </picture>
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 
