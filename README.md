@@ -62,7 +62,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/bobogzs/bobogzs/assets/images/steven.png" />
 
 <p>&emsp;&emsp;嗨，你好，我是月影醉梵音。</p>
 <p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
@@ -127,7 +127,6 @@
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/bobogzs/bobogzs/assets/images/hr.gif" />
-
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/bobogzs/bobogzs/assets/images/hr.gif" />
 <div align="center">
@@ -155,7 +154,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bobogzs&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bobogzs&theme=default&hide_border=true" />
 </picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/bobogzs/bobogzs/assets/images/right.png" />
+<img align="right" width="150" src="https://cdn.jsdelivr.net/gh/bobogzs/bobogzs/assets/images/right.png" />
 </td></tr>
 </table>
 
