@@ -32,17 +32,32 @@
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/bobogzs/bobogzs/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/bobogzs/bobogzs/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/bobogzs/bobogzs/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
 </div>
 
 #  🙋 Hello
-
 <table>
-  
+<tr><td>
+
+### Hi there 👋
+
+⏳ Year progress { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 16.13 %
+
+---
+
+⏰ Updated on Thu, 29 Feb 2024 00:47:48 GMT
+
+![Progress Bar CI](https://github.com/bobogzs/bobogzs/workflows/Progress%20Bar%20CI/badge.svg)
+
+ <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
+</td></tr>
+
 <tr><td>
 
 ### 🤺 About Me
@@ -56,11 +71,15 @@
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
+</table>
 
-<tr><td>
-
+ <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+    
 ### 🏊 更多仓库
 
+<table>
+<tr><td>
 <details close>
 <summary>点击展开 ...</summary>
 
@@ -103,16 +122,21 @@
 | [awesome-ops](https://github.com/eryajf/awesome-ops) | ![](https://img.shields.io/github/stars/eryajf/awesome-ops?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-ops?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🧰 记录每一个与运维相关的优秀项目 |
 
 </details>
+</td></tr>
+</table>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/bobogzs/bobogzs/assets/images/hr.gif" />
 
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/bobogzs/bobogzs/assets/images/hr.gif" />
 <div align="center">
 
 <!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" /> -->
 
 <!-- Joke 笑话 -->
+<!--
 <div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
@@ -120,46 +144,53 @@
     <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
   </picture>
 </div>
+-->
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
+<table>
+<tr><td>
+<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/bobogzs/bobogzs/assets/images/left.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bobogzs&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bobogzs&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bobogzs&theme=default&hide_border=true" />
 </picture>
+<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/bobogzs/bobogzs/assets/images/right.png" />
+</td></tr>
+</table>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bobogzs&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bobogzs&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=bobogzs&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
-  </tr>
+<tr><td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bobogzs&theme=xcode&bg_color=FF000000&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bobogzs&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bobogzs&theme=xcode&bg_color=FF000000&hide_border=true" />
+</picture>
+</td></tr>
 </table>
 
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/bobogzs/bobogzs/assets/images/hr.gif" />
 
 <div align="center" >
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/mb.png" width="250" height="250" />
-
+<!-- <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/mb.png" width="250" height="250" /> -->
 <!-- Quotes 名人名言 -->
-<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
+<!-- <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div> -->
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/bobogzs/bobogzs/assets/images/hr.gif" /> -->
 
 <div align="center" >
 
 <!-- just img 图片 -->
+<!--
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
+-->
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
@@ -227,11 +258,11 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/bobogzs/bobogzs/assets/images/hr.gif" />
 
 <!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
+<!-- <img width="36%" src="https://cdn.jsdelivr.net/gh/bobogzs/bobogzs/assets/images/githubgif.gif" /> -->
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+<img src="https://cdn.jsdelivr.net/gh/bobogzs/bobogzs/assets/images/icon.png" /></div>
 </div>
