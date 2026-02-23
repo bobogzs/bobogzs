@@ -148,13 +148,13 @@
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <table>
 <tr><td>
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/bobogzs/bobogzs/assets/images/left.png" />
+<img align="left" width="140" src="https://cdn.jsdelivr.net/gh/bobogzs/bobogzs/assets/images/left.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bobogzs&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bobogzs&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bobogzs&theme=default&hide_border=true" />
 </picture>
-<img align="right" width="150" src="https://cdn.jsdelivr.net/gh/bobogzs/bobogzs/assets/images/right.png" />
+<img align="right" width="140" src="https://cdn.jsdelivr.net/gh/bobogzs/bobogzs/assets/images/right.png" />
 </td></tr>
 </table>
 
